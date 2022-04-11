@@ -1,19 +1,30 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# JET
+- company: Just Eat Takeaway.com
+  position: Site Reliability Engineer
+  duration: January, 2021 &mdash; Present
+  summary: Member of a world class team of SREs responsible for the systems architecture, scalability, and resiliency of the platform for of the Takeaway app, enabling dozens of teams of developers across multiple countries to test and deploy microservices reliably and quickly	<ul class="resume-item-list"><li>Leading ongoing effort to migrate processes and infrastructure to AWS</li>Developed CI pipelines for managing Kafka (and topics) as Infra as Code<li></li>Designed and implemented continuous delivery for applications<li></li><li>Implemented monitoring (datadog,prometheus,ELK) for infrastructure</li><li>Helped with the transition from Marathon/Mesos to Kubernetes (EKS)</li><li>Set up Consul for cross-cluster + multi-AZ networking</li><li><i>Gently</i> forced people’s containers + CI to use Vault, tightening security</li><li>Wrote some python scripts to glue internal services together</li><li>Used Packer and Ansible for the automated building of updated and hardened AMIs</li><li>Made a few handy helm charts for internal uses</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Disraptor
+- company: Disraptor
+  position: DevOps Consultant
+  duration: January 2020 &mdash; December 2021
+  summary: A fantastic young diruptive idea-oriented company where I was a consultant for large and small firms, working with both greenfields and legacy bases; <ul class="resume-item-list"><li>Built a modularly deployable highly available rancher platform running on EKS from scratch, all as IaC</li><li>Automated integration of linux servers with existing Active Directory infrastructure via scripting and AWS Systems Manager</li><li>Migration of infrastructure and applications from vanilla/on prem k8s clusters to EKS</li><li>Developed a cost savings serverless application that automagically detects when resources like databases and instances aren't being used and scales them appropriately</li><li>Shifting on prem infrastructure to GCP while decreasing overall cost as the objective</li><li>Implemented Istio, resulting in improved service reliability and uptime</li></ul>
+
+# 4-Sure
+- company: 4-Sure Technology Solutions
+  position: Site Reliability Engineer
+  duration: October 2019 &mdash; January 2020
+  summary: A Fintech company where I spearheaded the initiative for converting from outdated stacks to a DevOps environment and philosophy, acting as the lead for a small team. <ul class="resume-item-list"><li>Set up a CI/CD pipeline to run builds on existing infrastructure</li><li>Deployed monitoring, alerting and automatic remediation to servers</li><li>Implemented log aggregation and analysis using ELK</li><li>Migrated several bare-metal applications to AWS/EKS</li><li>Decreased primary application deployment timeframe from multiple days to under an hour with the use of proper deployment automation</li></ul>
+
+# LSD
+- company: LSD Information Technology
+  position: DevOps Consultant
+  duration: March 2018 &mdash; October 2019
+  summary: Originally a Linux SysAdmin position where I quickly shifted to a different department once I started having too much fun with containers <ul class="resume-item-list"><li>Kubernetes/Openshift maintenance for multiple clients</li><li>Linux system administration, with updates, security improvements and the like as the responsibilities for smaller clients</li><li>Deployed an air-gapped on-prem cloud solution (Stratoscale)</li><li>Monitoring and reporting for a group of linux VMs</li><li>Deployed and ran an IMAP server :(</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Freelancing
+- company: Various
+  position: Freelance
+  duration:  Jun 2015 &mdash; Present
+  summary: I sometimes do a bit of freelancing, primarily for charity, contributing the skills I have for the greater good
