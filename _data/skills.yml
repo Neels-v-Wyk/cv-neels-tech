@@ -1,9 +1,16 @@
 - skill: 
   description: This is the buzzwords section
   
+  # Docker/Kubernetes
+- skill: Kubernetes, Container Management/Orchestration
+  description: Containers and Kubernetes are daily drivers. I know how they work, where to use them, and where you shouldn't
+  
 # Configuration Management
 - skill: Configuration Management
   description: Chef, Puppet, Ansible, SaltStack. Whatever tool to do the job right, and not manually.
+  
+- skill: Programming
+  description: I usually write programs in either Python or Node.js, but I've also worked with Go, Rust, and Java
   
 # infra as code
 - skill: Infrastrucure as Code
@@ -13,9 +20,6 @@
 - skill: Linux and &ast;nix based systems
   description: I've been working with (and on) Linux for years. I also have rudimentary experience with BSD (FreeBSD, NetBSD, OpenBSD), SunOS/Solaris
 
-# Docker/Kubernetes
-- skill: Kubernetes, Container Management/Orchestration
-  description: Containers and Kubernetes are daily drivers. I know how they work, where to use them, and where you shouldn't
 
 # OpenShift Management
 - skill: Managed Containers
