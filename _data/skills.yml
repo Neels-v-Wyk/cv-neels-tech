@@ -9,6 +9,9 @@
 - skill: Configuration Management
   description: Chef, Puppet, Ansible, SaltStack. Whatever tool to do the job right, and not manually.
   
+- skill: CI/CD
+  description: ArgoCD, GitLab CI, Jenkins, GitHub Actions, CircleCI, Bamboo, Atlantis, a handful of shell scripts and a cron schedule; I've seen and done it all
+  
 - skill: Programming
   description: I usually write programs in either Python or Node.js, but I've also worked with Go, Rust, and Java
   
