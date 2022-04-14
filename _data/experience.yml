@@ -6,21 +6,21 @@
 
 # Disraptor
 - company: Disraptor
-  position: DevOps Consultant
-  duration: January 2020 &mdash; December 2021
+  position: DevOps Engineer
+  duration: February 2020 &mdash; December 2021
   summary: A fantastic young diruptive idea-oriented company where I was a consultant for large and small firms, working with both greenfields and legacy bases; <ul class="resume-item-list"><li>Built a modularly deployable highly available rancher platform running on EKS from scratch, all as IaC</li><li>Automated integration of linux servers with existing Active Directory infrastructure via scripting and AWS Systems Manager</li><li>Migration of infrastructure and applications from vanilla/on prem k8s clusters to EKS</li><li>Developed a cost savings serverless application that automagically detects when resources like databases and instances aren't being used and scales them appropriately</li><li>Shifting on prem infrastructure to GCP while decreasing overall cost as the objective</li><li>Implemented Istio, resulting in improved service reliability and uptime</li></ul>
 
 # 4-Sure
 - company: 4-Sure Technology Solutions
   position: Site Reliability Engineer
-  duration: October 2019 &mdash; January 2020
+  duration: November 2019 &mdash; January 2020
   summary: A Fintech company where I spearheaded the initiative for converting from outdated stacks to a DevOps environment and philosophy, acting as the lead for a small team. <ul class="resume-item-list"><li>Set up a CI/CD pipeline to run builds on existing infrastructure</li><li>Deployed monitoring, alerting and automatic remediation to servers</li><li>Implemented log aggregation and analysis using ELK</li><li>Migrated several bare-metal applications to AWS/EKS</li><li>Decreased primary application deployment timeframe from multiple days to under an hour with the use of proper deployment automation</li></ul>
 
 # LSD
 - company: LSD Information Technology
-  position: DevOps Consultant
+  position: DevOps Engineer
   duration: March 2018 &mdash; October 2019
-  summary: Originally a Linux SysAdmin position where I quickly shifted to a different department once I started having too much fun with containers <ul class="resume-item-list"><li>Kubernetes/Openshift maintenance for multiple clients</li><li>Linux system administration, with updates, security improvements and the like as the responsibilities for smaller clients</li><li>Deployed an air-gapped on-prem cloud solution (Stratoscale)</li><li>Monitoring and reporting for a group of linux VMs</li><li>Deployed and ran an IMAP server :(</li></ul>
+  summary: Originally a Linux SysAdmin position where I quickly pivoted to a DevOps consultant role once I started having too much fun with containers <ul class="resume-item-list"><li>Kubernetes/Openshift maintenance for multiple clients</li><li>Linux system administration, with updates, security improvements and the like as the responsibilities for smaller clients</li><li>Deployed an air-gapped on-prem cloud solution (Stratoscale)</li><li>Monitoring and reporting for a group of linux VMs</li><li>Deployed and ran an IMAP server :(</li></ul>
 
 
 # Freelancing
