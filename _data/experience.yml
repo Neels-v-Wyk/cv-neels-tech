@@ -7,7 +7,7 @@
 # Disraptor
 - company: Disraptor
   position: DevOps Engineer
-  duration: February 2020 &mdash; December 2021
+  duration: February 2020 &mdash; December 2020
   summary: A fantastic young diruptive idea-oriented company where I was a consultant for large and small firms, working with both greenfields and legacy bases; <ul class="resume-item-list"><li>Built a modularly deployable highly available rancher platform running on EKS from scratch, all as IaC</li><li>Automated integration of linux servers with existing Active Directory infrastructure via scripting and AWS Systems Manager</li><li>Migration of infrastructure and applications from vanilla/on prem k8s clusters to EKS</li><li>Developed a cost savings serverless application that automagically detects when resources like databases and instances aren't being used and scales them appropriately</li><li>Shifting on prem infrastructure to GCP while decreasing overall cost as the objective</li><li>Implemented Istio, resulting in improved service reliability and uptime</li></ul>
 
 # 4-Sure
